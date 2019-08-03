@@ -27,10 +27,11 @@ In addition to the fantastic lectures and programming assignments, you can also 
 
   * [Week 1 - PA1 - Convolutional Model: step by step](https://github.com/djordjebatic/Deep-Learning-Specialization/blob/master/4%20Convolutional%20Neural%20Networks/week1/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb)
   * [Week 1 - PA2 - Convolutional Model: application](https://github.com/djordjebatic/Deep-Learning-Specialization/blob/master/4%20Convolutional%20Neural%20Networks/week1/Convolution%20model%20-%20Application%20-%20v1.ipynb)
+  * [Week 2 - Optional - Keras Tutorial - the Happy House](https://github.com/djordjebatic/Deep-Learning-Specialization/blob/master/4%20Convolutional%20Neural%20Networks/week2/KerasTutorial/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.ipynb)
   * [Week 2 - PA3 - Residual Networks](https://github.com/djordjebatic/Deep-Learning-Specialization/blob/master/4%20Convolutional%20Neural%20Networks/week2/ResNets/Residual%20Networks%20-%20v2.ipynb)
   * [Week 3 - PA4 - Car Detection with YOLOv2](https://github.com/djordjebatic/Deep-Learning-Specialization/blob/master/4%20Convolutional%20Neural%20Networks/week3/Car%20detection%20for%20Autonomous%20Driving/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.ipynb)
   * [Week 4 - PA5 - Keras - Art generation with Neural Style Transfer (Novi Sad + Vang Gogh)](https://github.com/djordjebatic/Deep-Learning-Specialization/blob/master/4%20Convolutional%20Neural%20Networks/week4/Neural%20Style%20Transfer/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
-  * [Week 4 - PA6 - Keras - Face Recognition for the Happy House](https://github.com/djordjebatic/Deep-Learning-Specialization/blob/master/4%20Convolutional%20Neural%20Networks/week2/KerasTutorial/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.ipynb)
+  * [Week 4 - PA6 - Keras - Face Recognition for the Happy House](https://github.com/djordjebatic/Deep-Learning-Specialization/blob/master/4%20Convolutional%20Neural%20Networks/week4/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
 
   
 * Course 5: Sequence Models
